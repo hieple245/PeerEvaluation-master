@@ -1,0 +1,12 @@
+Users can register on the website using valid email address, ASU ID
+Users can reset password
+
+------------------------------------------------------------------------------
+TODO:
+Professors can create a class and upload a file with student information in it
+Professors can create a peer evaluation form and add it to a class
+Professors can view the results of each students for an evaluation form 
+------------------------------------------------------------------------------
+
+Students can login and do assigned evaluation forms
+Manager can add/delete instructors
